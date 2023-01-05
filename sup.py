@@ -7,3 +7,4 @@ hi = 3
 h8 = "creating conflict"
 hi2 = "this is in the new branch"
 hi3 = 8
+u = "This is the change made in github"
